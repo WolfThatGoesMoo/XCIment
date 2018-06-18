@@ -1,0 +1,21 @@
+[Game Information] http://nswdb.com
+- Game Name
+- Publisher
+- Region
+- Available Languages
+- Release Group
+- Size of cart in GB
+- Serial
+- Title ID
+- CRC32 Check
+- BBB file name & switchdb ID
+- BBB release name
+- Cartridge Firmware
+- Actual ROM Size
+- Trimmed ROM Size
+- Card Type
+- Synopsis
+- Release date
+- Genre
+- Game poster?, cover, full cover?, cartridge? https://gametdb.com/Switch/AAAAA
+- BBB Release .nfo http://rom-news.org/img/nfo/a/arms.proper.nsw-bigbluebox.png
